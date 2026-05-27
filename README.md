@@ -1,6 +1,6 @@
 # OS-DODATNO
 
-Provjeru radim naredbama node -v i npm -v
+Provjeru radimo naredbama node -v i npm -v
 
 Dostupne zastavice za cowsay:
 -b
